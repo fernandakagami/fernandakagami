@@ -1,8 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</p>
+
+<h3 align="center">In career transition. I'm currently studying JavaScript.</h3>
+
+<p align="center"><a href="https://www.linkedin.com/in/fernanda-lima-kagami-94b60b229/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=fernandakagami&theme=synthwave"/>
+</p>
 
 <!--
-**fernandakagami/fernandakagami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
