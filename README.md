@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</p>
 
-<h3 align="center">Web developer.</h3>
+<h3 align="center">I am a web developer.</h3>
 
 <p align="center"><a href="https://www.linkedin.com/in/fernanda-lima-kagami-94b60b229/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
