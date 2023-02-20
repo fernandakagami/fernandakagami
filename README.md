@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Fernanda!</h1>
 
-<h3 align="center">A full stack developer from Brazil.</h3>
+<h3 align="center">A software engineer from Brazil.</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><br>
