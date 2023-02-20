@@ -3,9 +3,8 @@
 <h3 align="center">A full stack developer from Brazil.</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fernanda-lima-kagami-94b60b229/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/fernanda-lima-kagami-94b60b229/">https://www.linkedin.com/in/fernanda-lima-kagami-94b60b229/</a>
 </p>
 <br>
 
