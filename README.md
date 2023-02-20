@@ -31,10 +31,10 @@
  </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fernandakagami&theme=synthwave"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fernandakagami&theme=synthwave"/>
 </p>
 
-<p align="center>
+<p align="center">
   📫 How to reach me: fernandakagami@gmail.com
 </p>
 
