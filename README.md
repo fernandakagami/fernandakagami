@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <a href="https://www.linkedin.com/in/fernanda-lima-kagami-94b60b229/">https://www.linkedin.com/in/fernanda-lima-kagami-94b60b229/</a>
+  <a href="https://www.linkedin.com/in/fernanda-lima-kagami-94b60b229/">: https://www.linkedin.com/in/fernanda-lima-kagami-94b60b229/</a>
 </p>
 <br>
 
