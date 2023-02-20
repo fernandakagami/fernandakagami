@@ -34,6 +34,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=fernandakagami&theme=synthwave"/>
 </p>
 
+📫 How to reach me: fernandakagami@gmail.com
+
 <!--
 Here are some ideas to get you started:
 
