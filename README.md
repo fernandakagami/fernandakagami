@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
  </p>
 
-<p align="center">
+<!--<p align="center">
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=fernandakagami&show_icons=true&theme=dark"
@@ -41,7 +41,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=fernandakagami&show_icons=true" />
 </picture>
-</p>
+</p> -->
 
 <p align="center">
   📫 How to reach me: fernandakagami@gmail.com
